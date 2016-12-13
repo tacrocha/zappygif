@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ZappygifApplication {
+public class ZappyGifApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ZappygifApplication.class, args);
+		SpringApplication.run(ZappyGifApplication.class, args);
 	}
 }

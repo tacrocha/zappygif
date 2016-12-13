@@ -1,0 +1,3 @@
+ffmpeg:
+    path: "/Users/tacio/dev/repos/gif/ffmpeg"
+    outputDir: "/Users/tacio/dev/repos/gif/out"
