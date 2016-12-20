@@ -1,3 +1,6 @@
 ffmpeg:
-    path: "/Users/tacio/dev/repos/gif/ffmpeg"
-    outputDir: "/Users/tacio/dev/repos/gif/out"
+  path: "/Users/tacio/dev/repos/gif/ffmpeg"
+  outputDir: "/Users/tacio/dev/repos/gif/out"
+
+storage:
+  location: "/Users/tacio/Downloads"
